@@ -1,0 +1,7 @@
+Title: SecureHome: Modular ESP32 Smart Security System
+Domain: Embedded
+Tags: ESP32, IoT, Security, MQTT
+Year: 2024
+
+About:
+This project builds a modular smart home security system using ESP32 nodes, MQTT communication, and AI-based person detection. It combines access control, live camera monitoring, and a real-time dashboard for home security automation.
